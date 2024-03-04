@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 
-const char* ssid = "BAMA Teknoloji_2.4GHz";
-const char* password = "BAMATech2023";
+const char* ssid = "name of network";
+const char* password = "password of the network";
 
 
 WiFiServer server(80);
